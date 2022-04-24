@@ -8,5 +8,5 @@ ToDos:
 
 + Self Hosting Bot
 + No Huzzle / No Struggle
-+ Multi Language
++ Multi Language Support
 + PLUGINS - Add what you need
